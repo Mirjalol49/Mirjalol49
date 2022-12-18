@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirjalol49" alt="mirjalol49" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">
+<img src="<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="80" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 - 🔭 I’m currently working on **https://vet-clinic1.netlify.app/**
 
 - 🌱 I’m currently learning **SCSS and Java Script**
