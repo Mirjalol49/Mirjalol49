@@ -21,8 +21,7 @@ Welcome🙋‍♂️ to my Github profile! I'm Mirjalol, and I'm on a mission to
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 
 
