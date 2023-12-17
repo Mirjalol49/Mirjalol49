@@ -21,7 +21,8 @@ Welcome🙋‍♂️ to my Github profile! I'm Mirjalol, and I'm on a mission to
 <br/>  
 
 
-
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -42,10 +43,33 @@ Welcome🙋‍♂️ to my Github profile! I'm Mirjalol, and I'm on a mission to
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 </div>  
 
-<br/>   
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mirjalol49&&style=flat-square)  
   
 
 <br/>  
 
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
